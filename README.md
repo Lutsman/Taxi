@@ -1,6 +1,6 @@
 # Taxi
+<h3>Landing Page</h3>
 <ul>
-    <li>Landing Page</li>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>Javascript</li>
